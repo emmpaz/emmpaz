@@ -16,9 +16,11 @@ Websites I have designed and developed
 
 ------------------------------------------------------------
 
+Large projects done that I have highlighted on my resume.
+
 [Full Stack dashboard (Lead backend Engineer)](https://github.com/emmpaz/full-stack-dashboard)
 
-[Poker Game made with Java frontend and backend (Frontend Engineer and Lead Designer](https://github.com/emmpaz/Cacyno)
+[Poker Game made with Java frontend and backend (Frontend Engineer and Lead Designer)](https://github.com/emmpaz/Cacyno)
 
 ------------------------------------------------------------
 
