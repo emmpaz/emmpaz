@@ -6,6 +6,14 @@ or projects with a language I am interested in.
 
 I am currently seeking a full-time position!
 
+------------------------------------------------------------
+Current project: **TrueImpact** - A volunteering certification system
+  - React Typescript
+  - Tailwind css
+      - DaisyUI
+  - Supabase Authentication and Database
+  - 
+------------------------------------------------------------
 Check out some of my work:
 
 Websites I have designed and developed
@@ -25,6 +33,8 @@ Large projects done that I have highlighted on my resume.
 ------------------------------------------------------------
 
 This image contains the infrastructure system created for PrairieLearn.
+
+(No access to repository due to privacy).
 
 ![image](https://github.com/emmpaz/emmpaz/blob/main/PL%20server%20diagram.png)
 <!---
