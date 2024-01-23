@@ -12,7 +12,6 @@ Current project: **TrueImpact** - A volunteering certification system
   - Tailwind css
       - DaisyUI
   - Supabase Authentication and Database
-  - 
 ------------------------------------------------------------
 Check out some of my work:
 
