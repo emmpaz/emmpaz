@@ -7,7 +7,7 @@ or projects with a language I am interested in.
 I am currently seeking a full-time position!
 
 ------------------------------------------------------------
-Current project: **TrueImpact** - A volunteering certification system
+Current project: [**TrueImpact**](https://github.com/emmpaz/operationv) - A volunteering certification system
   - React Typescript
   - Tailwind css
       - DaisyUI
