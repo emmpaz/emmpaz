@@ -12,6 +12,8 @@ Current project: [**TrueImpact**](https://github.com/emmpaz/operationv) - A volu
   - Tailwind css
       - DaisyUI
   - Supabase Authentication and Database
+  - AWS Elastic Beanstalke
+  - ExpressJS
 ------------------------------------------------------------
 Check out some of my work:
 
